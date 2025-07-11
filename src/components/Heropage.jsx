@@ -1,7 +1,7 @@
 import 'boxicons/css/boxicons.min.css';
 import Spline from '@splinetool/react-spline';
 
-const Hero = () => {
+const Heropage = () => {
   return (
     <main className="flex lg:mt-20 flex-col lg:flex-row items-center justify-between min-h-[calc(90vh-6rem)] relative overflow-hidden">
       <div
@@ -61,4 +61,4 @@ const Hero = () => {
   );
 };
 
-export default Hero;
+export default Heropage;
