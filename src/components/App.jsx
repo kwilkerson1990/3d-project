@@ -1,4 +1,4 @@
-import Header from "./header";
+import Header from "./Navbar";
 import Hero from "./hero";
  import AOS from 'aos';
 import 'aos/dist/aos.css'; 

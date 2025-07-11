@@ -1,6 +1,6 @@
 import 'boxicons/css/boxicons.min.css';
 
-const header = () => {
+const Navbar = () => {
      // Simple function to toggle the mobile menu
      const toggleMobileMenu = () => {
          // Get the Mobile Menu Element
@@ -87,4 +87,4 @@ const header = () => {
   )
 }
 
-export default header
+export default Navbar
